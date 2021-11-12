@@ -5,10 +5,42 @@ body {
     opacity: 0.9;
     font-size: 22px;
     text-align: center;
+    background-color: black;
+}
+
+.header {
+    border-bottom: 1px solid seashell;
+    display: block;
+    width: 100%;
+    top: 0px;
+    height: 69px;
+}
+
+.logo {
+    height: 50px;
+    width: auto;
+    float: left;
+    padding-left: 10px;
 }
 
 
-li {
-    text-decoration: underline;
+.nav {
+    margin: 0 auto; 
+    float: right;
+    height: 100%
+}
 
+.nav a {
+    display: table;
+    float: left;
+    padding: 0px 20px;
+    height: 100%;
+}
+
+.nav a li {
+    display: table-cell;
+    height: 100%;
+    vertical-align: middle;
+    text-decoration: underline;
+    color: white;
 }
