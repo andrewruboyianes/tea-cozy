@@ -48,7 +48,7 @@ body {
 }
 
 .mission-container {
-    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-4/img-mission-background.jpg");
+    background-image: url("C:/Users/andre/Desktop/Coding/Projects/Tea Cozy/Images/img-mission-background.webp");
     background-repeat: no-repeat;
     background-position: center;
     height: 700px;
@@ -61,4 +61,21 @@ body {
     margin: auto;
     background-color: black;
     width: 100%;
+}
+
+.trend-container {
+    display: inline-flex;
+    max-width: 1000px;
+    height: auto;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.trend img {
+    height: 200px;
+    width: 300px;
+    padding: 10px;
+
 }
