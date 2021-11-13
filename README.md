@@ -42,7 +42,7 @@ Complete
 
 ## Acknoledgements
 
-S/O to **Nenad Dabic** on Youtube for the walkthrough. [Here's the vid.](https://www.youtube.com/watch?v=nSRC9NIam6w&t=900s){:target="_blank"}
+S/O to **Nenad Dabic** on Youtube for the walkthrough. [Here's the vid.](https://www.youtube.com/watch?v=nSRC9NIam6w&t=900s)
 
 ## Contact
 
