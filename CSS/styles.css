@@ -63,6 +63,11 @@ body {
     width: 100%;
 }
 
+
+#featured {
+    margin-top: 80px;
+}
+
 .trend-container {
     display: inline-flex;
     max-width: 1000px;
@@ -78,4 +83,43 @@ body {
     width: 300px;
     padding: 10px;
 
+}
+
+.banner {
+    height: 500px;
+    max-width: 1200px;
+    margin: 40px auto auto auto;
+    padding-top: 85px;
+    background-image: url('C:/Users/andre/Desktop/Coding/Projects/Tea Cozy/Images/img-locations-background.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.box-container {
+    max-width: 1050px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.box {
+    height: 300px;
+    padding: 20px;
+    margin-bottom: auto;
+    background-color: black;
+    opacity: .8;
+    flex-basis: 30%;
+    box-sizing: border-box;
+
+}
+
+.contact {
+    height: 200px;
+}
+
+footer {
+    text-align: left;
+    padding-left: 20px;
 }
