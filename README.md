@@ -7,8 +7,8 @@
  * [Technologies](#technologies)
  * [Features](#fetures)
  * [Usage](#usage)
- * [Project status](#project status)
- * [Room for improvement](#room for improvement)
+ * [Project status](#project-status)
+ * [Room for improvement](#room-for-improvement)
  * [Acknowledgements](#acknowledgements)
  * [Contact](#contact)
 
@@ -42,7 +42,7 @@ Complete
 
 ## Acknoledgements
 
-S/O to **Nenad Dabic** on Youtube for the walkthrough. [Here's the vid.](https://www.youtube.com/watch?v=nSRC9NIam6w&t=900s)
+S/O to **Nenad Dabic** on Youtube for the walkthrough. [Here's the vid.](https://www.youtube.com/watch?v=nSRC9NIam6w&t=900s){:target="_blank"}
 
 ## Contact
 
